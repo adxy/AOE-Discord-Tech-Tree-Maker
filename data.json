@@ -1,0 +1,227 @@
+{
+    "aztecs": {    	
+        "description": "**Infantry and Monk civilization**\n\n:small_blue_diamond:Villagers carry +5\n:small_blue_diamond:Military units created 10% faster\n:small_blue_diamond:+5 Monk hit points for each Monastery technology\n:small_blue_diamond:Start with +50 gold\n\n**Unique Unit:**\n:small_blue_diamond:Jaguar Warrior (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Atlatl (Skirmishers +1 attack, +1 range)\n:small_blue_diamond:Garland Wars (+4 infantry attack)\n\n**Team Bonus:**\n:small_blue_diamond:Relics generate +33% gold\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Jaguar-Warrior.jpg"
+			}
+    },
+    "berbers": { 
+        "description": "**Cavalry and Naval civilization**\n\n:small_blue_diamond:Villagers move 10% faster\n:small_blue_diamond:Stable units cost -15% in Castle, -20% in Imperial Age\n:small_blue_diamond:Ships move 10% faster\n\n**Unique Units:**\n:small_blue_diamond:Camel Archer (cavalry archer), Genitour (mounted skirmisher)\n\n**Unique Techs:**\n:small_blue_diamond:Kasbah (team castles work 25% faster)\n:small_blue_diamond:Maghrebi Camels (Camel units regenerate)\n\n**Team Bonus:**\n:small_blue_diamond:Genitour available in the Archery Range starting in the Castle Age\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Camel-Archer.jpg"
+        }
+   	},
+   	"britons": {
+        "description": "**Foot Archer civilization**\n\n:small_blue_diamond:Town Centers cost -50% wood in Castle Age\n:small_blue_diamond:Foot archers (except skirmishers) have +1 range Castle Age, +1 range Imperial Age (for +2 total)\n:small_blue_diamond:Shepherds work 25% faster\n\n**Unique Unit:**\n:small_blue_diamond:Longbowman (archer)\n\n**Unique Techs:**\n:small_blue_diamond:Yeomen (+1 foot archer range +2 tower attack)\n:small_blue_diamond:Warwolf (Trebuchets do blast damage)\n\n**Team Bonus:**\n:small_blue_diamond:Archery Ranges work 20% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Longbowman.jpg"
+        }
+   	},
+   	"bulgarians": {
+        "description": "**Infantry and Cavalry civilization**\n\n:small_blue_diamond:Militia-line upgrades free\n:small_blue_diamond:Town Centers cost -50% stone\n:small_blue_diamond:Can build Krepost\n\n**Unique Unit:**\n:small_blue_diamond:Konnik (cavalry)\n\n**Unique Techs:**\n:small_blue_diamond:Stirrups (Cavalry attack 25% faster)\n:small_blue_diamond:Bagains (Militia-line gains +5 armor)\n\n**Team Bonus:**\n:small_blue_diamond:Blacksmiths work 50% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Konnik.jpg"
+        }
+    },
+     "burmese": {
+        "description": "**Monk and Elephant civilization**\n\n:small_blue_diamond:Lumber Camp upgrades free\n:small_blue_diamond:Infantry +1 attack per age (starting in the Feudal Age)\n:small_blue_diamond:Monastery techs cost -50%\n\n**Unique Unit:**\n:small_blue_diamond:Arambai (ranged cavalry)\n\n**Unique Techs:**\n:small_blue_diamond:Howdah (Battle Elephants +1/+1P armor)\n:small_blue_diamond:Manipur Cavalry (Cavalry and Arambai +6 attack vs. buildings)\n\n**Team Bonus:**\n:small_blue_diamond:Relics visible on the map at the start of the game\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Arambai.jpg"
+        }
+    },
+    "byzantines": {
+        "description": "**Defensive civilization**\n\n:small_blue_diamond:Buildings +10% HPs Dark, +20% Feudal, +30% Castle, +40% Imperial Age\n:small_blue_diamond:Camel Riders, Skirmishers, Pikemen, Halberdiers cost -25%\n:small_blue_diamond:Fire ships attack 20% faster\n:small_blue_diamond:Advance to Imperial Age costs -33%\n:small_blue_diamond:Town Watch free\n\n**Unique Unit:**\n:small_blue_diamond:Cataphract (cavalry)\n\n**Unique Techs:**\n:small_blue_diamond:Greek Fire (Fire Ships +1 range)\n:small_blue_diamond:Logistica (Cataphracts cause trample damage)\n\n**Team Bonus:**\n:small_blue_diamond:Monks +50% heal speed\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Cataphract.jpg"
+        }
+    },
+    "celts": {
+        "description": "**Infantry and Siege civilization**\n\n:small_blue_diamond:Infantry move 15% faster\n:small_blue_diamond:Lumberjacks work 15% faster\n:small_blue_diamond:Siege weapons fire 20% faster\n:small_blue_diamond:Sheep not converted if in 1 Celt unit's line of sight\n\n**Unique Unit:**\n:small_blue_diamond:Woad Raider (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Stronghold (Castles and towers fire 20% faster)\n:small_blue_diamond:Furor Celtica (Siege Workshop units +40% HP)\n\n**Team Bonus:**\n:small_blue_diamond:Siege Workshops work 20% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Woad-Raider.jpg"
+        }
+    },
+    "chinese": {
+        "description": "**Archer civilization**\n\n:small_blue_diamond:Start with +3 villagers, -50 wood, -200 food\n:small_blue_diamond:Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age\n:small_blue_diamond:Town Centers support 10 population and +5 LOS\n:small_blue_diamond:Demolition ships +50% hit points\n\n**Unique Unit:**\n:small_blue_diamond:Chu Ko Nu (archer)\n\n**Unique Techs:**\n:small_blue_diamond:Great Wall (Walls and towers +30% HP)\n:small_blue_diamond:Rocketry (Chu Ko Nu +2, scorpions +4 attack)\n\n**Team Bonus:**\n:small_blue_diamond:Farms +45 food\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Chu-Ko-Nu.jpg"
+        }
+    },
+    "cumans": {
+        "description": "**Cavalry civilization**\n\n:small_blue_diamond:Additional Town Center can be built in the Feudal Age\n:small_blue_diamond:Siege Workshop and Battering Ram available in the Feudal Age; Capped Ram upgrade available in Castle Age\n:small_blue_diamond:• Cavalry 5% faster each age (starting in Feudal Age)\n\n**Unique Unit:**\n:small_blue_diamond:Kipchak (cavalry archer)\n\n**Unique Techs:**\n:small_blue_diamond:Steppe Husbandry (Light Cavalry, Steppe Lancers and Cavalry Archers trained 50% faster)\n:small_blue_diamond:Cuman Mercenaries (team members can create 10 free Elite Kipchaks in the Castle)\n\n**Team Bonus:**\n:small_blue_diamond:Palisade Walls +50% HP\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Kipchak.jpg"
+        }
+    },
+    "ethiopians": {
+        "description": "**Archer civilization**\n\n:small_blue_diamond:Archers fire 15% faster\n:small_blue_diamond:Receive +100 gold, +100 food when advancing to the next age\n:small_blue_diamond:Pikeman upgrade free\n\n**Unique Unit:**\n:small_blue_diamond:Shotel Warrior (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Royal Heirs (Shotel Warriors train nearly instantly)\n:small_blue_diamond:Torsion Engines (increases blast radius of Siege Workshop units)\n\n**Team Bonus:**\n:small_blue_diamond:Towers and Outposts +3 LOS\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Shotel-Warrior.jpg"
+        }
+    },
+    "franks": {
+        "description": "**Cavalry civilization**\n\n:small_blue_diamond:Castles cost -25%\n:small_blue_diamond:Cavalry +20% hit points starting in Feudal Age\n:small_blue_diamond:Farm upgrades free (require Mill)\n:small_blue_diamond:Foragers work 25% faster\n\n**Unique Unit:**\n:small_blue_diamond:Throwing Axeman (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Chivalry (Stables work 40% faster)\n:small_blue_diamond:Bearded Axe (+1 Throwing Axemen range)\n\n**Team Bonus:**\n:small_blue_diamond:Knights +2 line of sight\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Throwing-Axeman.jpg"
+        }
+    },
+    "goths": {
+        "description": "**Infantry civilization**\n\n:small_blue_diamond:Infantry cost -20% in Dark, -25% in Feudal, -30% in Castle, -35% in Imperial Age\n:small_blue_diamond:Infantry +1 attack vs. buildings per age (starting from Feudal Age)\n:small_blue_diamond:Villagers +5 attack vs. wild boar; hunters carry +15 meat\n:small_blue_diamond:Loom free\n:small_blue_diamond:+10 population in Imperial Age\n\n**Unique Unit:**\n:small_blue_diamond:Huskarl (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Anarchy (create Huskarls at Barracks)\n:small_blue_diamond:Perfusion (Barracks work 100% faster)\n\n**Team Bonus:**\n:small_blue_diamond:Barracks work 20% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Huskarl.jpg"
+        }
+    },
+    "huns": {
+        "description": "**Cavalry civilization**\n\n:small_blue_diamond:Do not need houses, but start with -100 wood\n:small_blue_diamond:Cavalry Archers cost -10% Castle, -20% Imperial Age\n:small_blue_diamond:Trebuchets +30% accuracy\n\n**Unique Unit:**\n:small_blue_diamond:Tarkan (cavalry)\n\n**Unique Techs:**\n:small_blue_diamond:Marauders (Create Tarkans at stables)\n:small_blue_diamond:Atheism (+100 years Relic, Wonder victories, Spies/Treason costs -50%)\n\n**Team Bonus:**\n:small_blue_diamond:Stables work 20% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Tarkan.jpg"
+        }
+    },
+    "incas": {
+        "description": "**Infantry civilization**\n\n:small_blue_diamond:Start with a free Llama\n:small_blue_diamond:Villagers affected by Blacksmith upgrades\n:small_blue_diamond:Houses support 10 population\n:small_blue_diamond:Buildings cost -15% stone\n\n**Unique Units:**\n:small_blue_diamond:Kamayuk (infantry), Slinger (archer)\n\n**Unique Techs:**\n:small_blue_diamond:Andean Sling (Skirmishers and Slingers no minimum range)\n:small_blue_diamond:Fabric Shields (Kamayuks, Slingers, Eagles +1/+2P armor)\n\n**Team Bonus:**\n:small_blue_diamond:Farms built 50% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Kamayuk.jpg"
+        }
+    },
+    "indians": {
+        "description": "**Camel and Gunpowder civilization**\n\n:small_blue_diamond:Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age\n:small_blue_diamond:Fishermen work 10% faster\n:small_blue_diamond:Camel Riders +1P armor\n\n**Unique Units:**\n:small_blue_diamond:Elephant Archer (cavalry archer), Imperial Camel Rider (camel rider)\n\n**Unique Techs:**\n:small_blue_diamond:Sultans (All gold income 10% faster)\n:small_blue_diamond:Shatagni (Hand Cannoneers +1 range)\n\n**Team Bonus:**\n:small_blue_diamond:Camel units +5 attack vs. buildings\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Elephant-Archer.jpg"
+        }
+    },
+    "italians": {
+        "description": "**Archer and Naval civilization**\n\n:small_blue_diamond:Advancing to the next age costs -15%\n:small_blue_diamond:Dock technologies cost -50%\n:small_blue_diamond:Fishing Ships cost -15%\n:small_blue_diamond:Gunpowder units cost -20%\n\n**Unique Units:**\n:small_blue_diamond:Genoese Crossbowman (archer), Condottiero (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Pavise (foot archers and Condottieri +1 armor/+1 pierce armor)\n:small_blue_diamond:Silk Road (trade units cost -50%)\n\n**Team Bonus:**\n:small_blue_diamond:Condottiero available in the Barracks in Imperial Age\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Genoese-Crossbowman.jpg"
+        }
+    },
+    "japanese": {
+        "description": "**Infantry civilization**\n\n:small_blue_diamond:Fishing Ships 2x hit points; +2P armor; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age\n:small_blue_diamond:Mill, Lumber/Mining Camps cost -50%\n:small_blue_diamond:Infantry attack 25% faster starting in Feudal Age\n\n**Unique Unit:**\n:small_blue_diamond:Samurai (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Yasama (Towers shoot extra arrows)\n:small_blue_diamond:Kataparuto (Trebuchets fire, pack faster)\n\n**Team Bonus:**\n:small_blue_diamond:Galleys +50% line of sight\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Samurai.jpg"
+        }
+    },
+    "khmer": {
+        "description": "**Siege and Elephant civilization**\n\n:small_blue_diamond:No buildings required to advance to the next age or to unlock other buildings\n:small_blue_diamond:Farmers don't require Mills/Town Centers to drop off food\n:small_blue_diamond:Battle Elephants move 15% faster\n:small_blue_diamond:Villagers can garrison in Houses\n\n**Unique Unit:**\n:small_blue_diamond:Ballista Elephant (mounted scorpion)\n\n**Unique Techs:**\n:small_blue_diamond:Tusk Swords (Battle Elephants +3 attack)\n:small_blue_diamond:Double Crossbow (Ballista Elephants and Scorpions fire two projectiles)\n\n**Team Bonus:**\n:small_blue_diamond:Scorpions +1 range\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Ballista-Elephant.jpg"
+        }
+    },
+    "koreans": {
+        "description": "**Defensive and Naval civilization**\n\n:small_blue_diamond:Villagers +3 line of sight\n:small_blue_diamond:Stone miners work 20% faster\n:small_blue_diamond:Tower upgrades free (Bombard Tower requires Chemistry)\n:small_blue_diamond:Tower range +1 Castle, +2 Imperial Age\n:small_blue_diamond:Military units (except siege weapons) cost -20% wood\n\n**Unique Units:**\n:small_blue_diamond:War Wagon (cavalry archer), Turtle Ship (war ship)\n\n**Unique Techs:**\n:small_blue_diamond:Panokseon (Turtle Ships move 15% faster)\n:small_blue_diamond:Shinkichon (Mangonel-line +1 range)\n\n**Team Bonus:**\n:small_blue_diamond:Mangonel-line minimum range reduced\n\n**Team Bonus:**\n:small_blue_diamond:Scorpions +1 range\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/War-Wagon.jpg"
+        }
+    },
+    "lithuanians": {
+        "description": "**Cavalry and Monk civilization**\n\n:small_blue_diamond:Start with +150 food\n:small_blue_diamond:Spearman-line and Skirmishers move 10% faster\n:small_blue_diamond:Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4)\n\n**Unique Unit:**\n:small_blue_diamond:Leitis (cavalry)\n\n**Unique Techs:**\n:small_blue_diamond:Hill Forts (Town Centers +3 range)\n:small_blue_diamond:Tower Shields (Spearman-line and Skirmishers +2P armor)\n\n**Team Bonus:**\n:small_blue_diamond:Monasteries work 20% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Leitis.jpg"
+        }
+    },
+    "magyars": {
+        "description": "**Cavalry civilization**\n\n:small_blue_diamond:Villagers kill wolves with 1 strike\n:small_blue_diamond:Forging, Iron Casting, Blast Furnace free\n:small_blue_diamond:Scout Cavalry, Light Cavalry, Hussar cost -15%\n\n**Unique Unit:**\n:small_blue_diamond:Magyar Huszar (cavalry)\n\n**Unique Techs:**\n:small_blue_diamond:Corvinian Army (Magyar Huszars cost no gold)\n:small_blue_diamond:Recurve Bow (Cavalry archers +1 range, +1 attack)\n\n**Team Bonus:**\n:small_blue_diamond:Foot archers +2 LOS\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Magyar-Huszar.jpg"
+        }
+    },
+    "malay": {
+        "description": "**Naval civilization**\n\n:small_blue_diamond:Advancing to the next age 66% faster\n:small_blue_diamond:Fish Traps cost -33%\n:small_blue_diamond:Fish Traps provide unlimited food\n:small_blue_diamond:Battle Elephants 30% cheaper\n\n**Unique Unit:**\n:small_blue_diamond:Karambit Warrior (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Thalassocracy (upgrades Docks to Harbors, which fire arrows)\n:small_blue_diamond:Forced Levy (Militia-line gold cost is replaced by additional food cost)\n\n**Team Bonus:**\n:small_blue_diamond:Docks +100% LOS\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Karambit-Warrior.jpg"
+        }
+    },
+    "malians": {
+        "description": "**Infantry civilization**\n\n:small_blue_diamond:Buildings cost -15% wood\n:small_blue_diamond:Barracks units +1P armor per age (starting from Feudal Age)\n:small_blue_diamond:Gold Mining free\n\n**Unique Unit:**\n:small_blue_diamond:Gbeto (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Tigui (Town Centers fire arrows when ungarrisoned)\n:small_blue_diamond:Farimba (Cavalry +5 attack)\n\n**Team Bonus:**\n:small_blue_diamond:Universities work 80% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Gbeto.jpg"
+        }
+    },
+    "mayans": {
+        "description": "**Archer civilization**\n\n:small_blue_diamond:Start with +1 villager, but -50 food\n:small_blue_diamond:Resources last 15% longer\n:small_blue_diamond:Archers cost -10% Feudal, -20% Castle, -30% Imperial Age\n\n**Unique Unit:**\n:small_blue_diamond:Plumed Archer (archer)\n\n**Unique Techs:**\n:small_blue_diamond:Obsidian Arrows (Archers, Crossbowmen and Arbalesters +6 attack vs. buildings)\n:small_blue_diamond:El Dorado (Eagle Warriors have +40 hit points)\n\n**Team Bonus:**\n:small_blue_diamond:Walls cost -50%\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Plumed-Archer.jpg"
+        }
+    },
+    "mongols": {
+        "description": "**Cavalry Archer civilization**\n\n:small_blue_diamond:Cavalry archers fire 20% faster\n:small_blue_diamond:Light Cavalry, Hussars, Steppe Lancers +30% hit points\n:small_blue_diamond:Hunters work 40% faster\n\n**Unique Unit:**\n:small_blue_diamond:Mangudai (cavalry archer)\n\n**Unique Techs:**\n:small_blue_diamond:Nomads (lost houses do not decrease population headroom)\n:small_blue_diamond:Drill (Siege Workshop units move 50% faster)\n\n**Team Bonus:**\n:small_blue_diamond:Scout Cavalry, Light Cavalry, Hussar +2 line of sight\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Mangudai.jpg"
+        }
+    },
+    "persians": {
+        "description": "**Cavalry civilization**\n\n:small_blue_diamond:Start with +50 wood, food\n:small_blue_diamond:Town Center, Dock 2x hit points; work rate +10% Feudal, +15% Castle, +20% Imperial Age\n\n**Unique Unit:**\n:small_blue_diamond:War Elephant (cavalry)\n\n**Unique Techs:**\n:small_blue_diamond:Kamandaran (Archer-line gold cost is replaced by additional wood cost)\n:small_blue_diamond:Mahouts (War Elephants 30% faster)\n\n**Team Bonus:**\n:small_blue_diamond:Knights +2 attack vs. Archers\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/War-Elephant.jpg"
+        }
+    },
+    "portuguese": {
+        "description": "**Naval and Gunpowder civilization**\n\n:small_blue_diamond:All units cost -20% gold\n:small_blue_diamond:Ships +10% HP\n:small_blue_diamond:Can build Feitoria in Imperial Age\n\n**Unique Units:**\n:small_blue_diamond:Organ Gun (siege), Caravel (war ship)\n\n**Unique Techs:**\n:small_blue_diamond:Carrack (Ships +1/+1 armor)\n:small_blue_diamond:Arquebus (gunpowder units more accurate)\n\n**Team Bonus:**\n:small_blue_diamond:Line of sight is shared with the team starting in the Dark Age\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Organ-Gun.jpg"
+        }
+    },
+    "saracens": {
+        "description": "**Camel and Naval civilization**\n\n:small_blue_diamond:Market trade cost only 5%\n:small_blue_diamond:Market costs -100 wood\n:small_blue_diamond:Transport Ships 2x hit points, 2x carry capacity\n:small_blue_diamond:Galleys attack 20% faster\n:small_blue_diamond:Archers (except skirmishers) +1 attack vs. buildings per age (starting in the Feudal Age)\n\n**Unique Unit:**\n:small_blue_diamond:Mameluke (camel rider)\n\n**Unique Techs:**\n:small_blue_diamond:Madrasah (Monks return 33% of their cost when killed)\n:small_blue_diamond:Zealotry (Camel units +30 hit points)\n\n**Team Bonus:**\n:small_blue_diamond:Foot archers +1 attack vs. buildings\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Mameluke.jpg"
+        }
+    },
+    "slavs": {
+        "description": "**Infantry and Siege civilization**\n\n:small_blue_diamond:Farmers work 10% faster\n:small_blue_diamond:Supplies free\n:small_blue_diamond:Siege Workshop units 15% cheaper\n\n**Unique Unit:**\n:small_blue_diamond:Boyar (cavalry)\n\n**Unique Techs:**\n:small_blue_diamond:Orthodoxy (Monks +3/+3P armor)\n:small_blue_diamond:Druzhina (Infantry damage adjacent units)\n\n**Team Bonus:**\n:small_blue_diamond:Military buildings provide +5 population room\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Boyar.jpg"
+        }
+    },
+    "spanish": {
+        "description": "**Gunpowder and Monk civilization**\n\n:small_blue_diamond:Builders work 30% faster\n:small_blue_diamond:Blacksmith upgrades don't cost gold\n:small_blue_diamond:Cannon Galleons benefit from Ballistics (fire faster, more accurately)\n:small_blue_diamond:Gunpowder units fire 15% faster\n\n**Unique Units:**\n:small_blue_diamond:Conquistador (mounted hand cannoneer), Missionary (mounted Monk)\n\n**Unique Techs:**\n:small_blue_diamond:Inquisition (Monks convert faster)\n:small_blue_diamond:Supremacy (Villagers stronger in combat)\n\n**Team Bonus:**\n:small_blue_diamond:Trade units generate +25% gold\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Conquistador.jpg"
+        }
+    },
+    "tatars": {
+        "description": "**Cavalry Archer civilization**\n\n:small_blue_diamond:Villagers gather +50% food from herdables\n:small_blue_diamond:Units deal +25% damage when fighting from higher elevation\n:small_blue_diamond:Thumb Ring, Parthian Tactics free\n\n**Unique Units:**\n:small_blue_diamond:Keshik (raiding cavalry), Flaming Camel (petard)\n\n**Unique Techs:**\n:small_blue_diamond:Silk Armor (Light Cavalry, Steppe Lancers and Cavalry Archers receive +1P armor)\n:small_blue_diamond:Timurid Siegecraft (Trebuchets +2 range, enables Flaming Camels)\n\n**Team Bonus:**\n:small_blue_diamond:Cavalry Archers +2 LOS\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Keshik.jpg"
+        }
+    },
+    "teutons": {
+        "description": "**Infantry civilization**\n\n:small_blue_diamond:Monks healing range 2x\n:small_blue_diamond:Towers garrison 2x units\n:small_blue_diamond:Murder Holes, Herbal Medicine free\n:small_blue_diamond:Farms cost -40%\n:small_blue_diamond:Town Center garrison +10\n:small_blue_diamond:Barracks and Stable units have +1 armor Castle Age, +1 armor Imperial Age (for +2 total)\n\n**Unique Unit:**\n:small_blue_diamond:Teutonic Knight (infantry)\n\n**Unique Techs:**\n:small_blue_diamond:Ironclad (siege weapons extra melee armor)\n:small_blue_diamond:Crenellations (+3 range Castles, garrisoned infantry fire arrows)\n\n**Team Bonus:**\n:small_blue_diamond:Units resist conversion\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Teutonic-Knights.jpg"
+        }
+    },
+    "turks": {
+        "description": "**Gunpowder civilization**\n\n:small_blue_diamond:Gunpowder units +25% hit points; researching gunpowder technologies costs -50%; Chemistry free\n:small_blue_diamond:Gold miners work 20% faster\n:small_blue_diamond:Light Cavalry and Hussar upgrades free\n\n**Unique Unit:**\n:small_blue_diamond:Janissary (hand cannoneer)\n\n**Unique Techs:**\n:small_blue_diamond:Sipahi (Cavalry Archers +20 HP)\n:small_blue_diamond:Artillery (+2 range Bombard Towers, Bombard Cannons, Cannon Galleons)\n\n**Team Bonus:**\n:small_blue_diamond:Gunpowder units created 20% faster\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Janissary.jpg"
+        }
+    },
+    "vietnamese": {
+        "description": "**Archer civilization**\n\n:small_blue_diamond:Enemy positions are revealed at the start of the game\n:small_blue_diamond:Economic upgrades cost no wood\n:small_blue_diamond:Archery Range units +20% HP\n:small_blue_diamond:Conscription free\n\n**Unique Units:**\n:small_blue_diamond:Rattan Archer (foot archer)\n\n**Unique Techs:**\n:small_blue_diamond:Chatras (Battle Elephants +50 HP)\n:small_blue_diamond:Paper Money (Each team member receives 500 gold)\n\n**Team Bonus:**\n:small_blue_diamond:Imperial Skirmisher upgrade available in the Imperial Age\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Rattan-Archer.jpg"
+        }
+    },
+    "vikings": {
+        "description": "**Infantry and Naval civilization**\n\n:small_blue_diamond:Warships cost -15% Feudal Age, -15% Castle Age, -20% Imperial Age\n:small_blue_diamond:Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age\n:small_blue_diamond:Wheelbarrow, Hand Cart free\n\n**Unique Units:**\n:small_blue_diamond:Berserk (infantry), Longboat (warship)\n\n**Unique Techs:**\n:small_blue_diamond:Chieftains (infantry deal bonus damage to cavalry)\n:small_blue_diamond:Berserkergang (Berserks regenerate faster)\n\n**Team Bonus:**\n:small_blue_diamond:Docks cost -15%\n\n**Tech Tree:**",
+        "thumbnail": {
+            "url": "https://aoeindia.gg/wp-content/uploads/2020/07/Berserk.jpg"
+        }
+    },
+    "techtree": {
+    	"blacksmith": ":regional_indicator_b: :regional_indicator_l: :regional_indicator_a: :regional_indicator_c: :regional_indicator_k: :regional_indicator_s: :regional_indicator_m: :regional_indicator_i: :regional_indicator_t: :regional_indicator_h: .",
+    	"archers": ":regional_indicator_a: :regional_indicator_r: :regional_indicator_c: :regional_indicator_h: :regional_indicator_e: :regional_indicator_r: :regional_indicator_s: .",
+    	"infantry": ":regional_indicator_i: :regional_indicator_n: :regional_indicator_f: :regional_indicator_a: :regional_indicator_n: :regional_indicator_t: :regional_indicator_r: :regional_indicator_y: .",
+    	"cavalry": ":regional_indicator_c: :regional_indicator_a: :regional_indicator_v: :regional_indicator_a: :regional_indicator_l: :regional_indicator_r: :regional_indicator_y: .",
+    	"other": ":regional_indicator_o: :regional_indicator_t: :regional_indicator_h: :regional_indicator_e: :regional_indicator_r: .",
+    	"siege": ":regional_indicator_s: :regional_indicator_i: :regional_indicator_e: :regional_indicator_g: :regional_indicator_e: ."
+	},
+	"footer": {
+		"content": "HOW TO USE: Click on any civilisation that you want to check from Civilisation Index and it will take you there. Under every civilisation there is a link to go back to Civ Index. Source Code: [adxy](https://test.com)"
+	} 
+
+
+
+
+}

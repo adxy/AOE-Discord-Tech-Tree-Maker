@@ -1,0 +1,118 @@
+Heirarchy:
+
+Goto index link
+
+civ banner
+
+civ embed
+
+civ technologies/units
+
+______________________________________________
+
+Civ Embed:(with embed colour):
+
+Title(Bold)
+
+Description(Heading Bold)
+>(Bullet points)
+
+Tech Tree:(Bold)
+
+________________________________________________
+
+List of all Civs:
+
+Aztecs
+Berbers
+Britons
+Bulgarians
+Burmese
+Byzantines
+Celts
+Chinese
+Cumans
+Ethiopians
+Franks
+Goths
+Huns
+Incas
+Indians
+Italians
+Japanese
+Khmer
+Koreans
+Lithuanians
+Magyars
+Malay
+Malians
+Mayans
+Mongols
+Persians
+Portuguese
+Saracens
+Slavs
+Spanish
+Tatars
+Teutons
+Turks
+Vietnamese
+Vikings
+
+_______________________________
+
+Links of all UUs:
+
+https://aoeindia.gg/wp-content/uploads/2020/07/Jaguar-Warrior.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Camel-Archer.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Longbowman.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Konnik.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Arambai.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Cataphract.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Woad-Raider.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Chu-Ko-Nu.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Kipchak.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Shotel-Warrior.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Throwing-Axeman.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Huskarl.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Tarkan.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Kamayuk.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Elephant-Archer.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Genoese-Crossbowman.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Samurai.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Ballista-Elephant.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/War-Wagon.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Leitis.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Magyar-Huszar.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Karambit-Warrior.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Gbeto.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Plumed-Archer.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Mangudai.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/War-Elephant.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Organ-Gun.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Mameluke.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Boyar.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Conquistador.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Keshik.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Teutonic-Knights.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Janissary.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Rattan-Archer.jpg
+https://aoeindia.gg/wp-content/uploads/2020/07/Berserk.jpg
+
+
+__________________________________________
+
+Algo:
+
+Start
+
+Post Goto Civ Index link empty, store the message ID
+
+Post civ Banner
+Post embed
+post techs/units
+repeat
+
+After all 35 civs done, take the link of civ index, update all the goto civ index
+
+
