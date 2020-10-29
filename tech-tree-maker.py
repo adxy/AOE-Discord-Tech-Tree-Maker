@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord import Embed, File
 
 #enter your bot token here
-TOKEN = 'NzM2MTcxMjAwOTM3NDU5NzEy.Xxq62w.MuygcFLO6AmIATW2OUOKdSY55as'
+TOKEN = 'Add your token here'
 
 #opens data.json and stores all data in data variable
 with open("data.json") as f:
